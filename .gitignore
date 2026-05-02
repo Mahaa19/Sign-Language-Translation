@@ -1,0 +1,42 @@
+# Database files
+database.db
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE settings
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Jupyter cache
+.ipynb_checkpoints/
+__pycache__/
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Temporary files
+*.mp3
+*.wav
+*.log
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache/
+*.cache
